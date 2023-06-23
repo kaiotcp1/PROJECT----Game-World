@@ -4,7 +4,10 @@
 
 # Sobre o projeto
 
-frontend para apresentar uma lista de jogos, que será fornecida por uma API. [Acesse aqui](https://gameworld-project.netlify.app) 
+frontend para apresentar uma lista de jogos, que será fornecida por uma API.
+
+## Deploy
+[Acesse aqui](https://gameworld-project.netlify.app) 
 
 
 
