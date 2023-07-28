@@ -1,4 +1,4 @@
-# World Movie
+# Game World
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/kaiotcp1/mini_blog/blob/main/license) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d4b51938-51ca-4a38-a8e7-6e08abe9bffd/deploy-status)](https://app.netlify.com/sites/gameworld-project/deploys)
 
